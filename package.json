@@ -1,0 +1,7 @@
+{
+  "name": "javascript-pareto",
+  "version": "1.0.0",
+  "description": "Pareto-trimmed JavaScript playground — the 20% of JS that powers 80% of React code.",
+  "type": "module",
+  "private": true
+}
